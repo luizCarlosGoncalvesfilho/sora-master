@@ -1,0 +1,51 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #0d0d0d;
+  color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+header {
+  text-align: center;
+  background: #111;
+  padding: 2rem;
+}
+header h1 {
+  font-size: 3rem;
+  color: #FFD700;
+}
+header p {
+  font-size: 1.2rem;
+  color: #ccc;
+}
+.sobre, .beneficios {
+  padding: 2rem;
+  text-align: center;
+}
+.sobre h2 {
+  color: #fff;
+}
+.video {
+  text-align: center;
+  padding: 2rem;
+}
+.beneficios ul {
+  list-style: none;
+  padding: 0;
+  font-size: 1.1rem;
+}
+footer {
+  text-align: center;
+  background: #111;
+  padding: 2rem;
+}
+.btn {
+  background: #FFD700;
+  color: #000;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+}
